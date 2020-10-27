@@ -1,6 +1,6 @@
 # Autocompleter / NLP / ML Engineering Challenge
 
-Autocompleter implemented using an n gram language model
+Autocompleter system, using an n gram language model
 
 
 Motivation
