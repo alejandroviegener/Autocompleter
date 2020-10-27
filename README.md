@@ -6,7 +6,7 @@ Autocompleter implemented using an n gram language model
 Motivation
 ----------
 
-Your challenge is to design and implement an auto-complete server using the sample chat histories in sample_conversations.json. The basic idea is for the agent to type a few letters or words, and the service will suggest sentence completions. followup phone-call.
+Your challenge is to design and implement an auto-complete server using the sample chat histories in sample_conversations.json. The basic idea is for the agent to type a few letters or words, and the service will suggest sentence completions. 
 
 Usage
 -----
