@@ -1,0 +1,7 @@
+pytest==5.3.5
+flask==1.1.1
+nltk==3.4.5
+spacy==2.2.3
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz
+truecase==0.0.6
+autocorrect==0.4.4
